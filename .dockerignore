@@ -1,2 +1,7 @@
-.build/
-.swiftpm/
+**/.build
+**/.dockerignore
+**/.git
+**/.gitignore
+**/.swiftpm
+**/docker-compose*
+**/Dockerfile*
